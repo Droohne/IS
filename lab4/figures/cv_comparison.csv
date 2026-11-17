@@ -1,0 +1,4 @@
+﻿Модель,CV macro-F1 (mean),CV std
+Baseline RF+balanced (raw),0.6606,0.0405
+RF+features,0.6529,0.0332
+RF+GridSearchCV (features),0.6597,0.0323

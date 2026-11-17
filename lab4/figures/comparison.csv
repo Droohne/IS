@@ -1,0 +1,4 @@
+﻿Шаг,Macro-F1 (test),Accuracy (test),"Δ к baseline, %"
+1. Базовая модель (практика 3): RF+balanced,0.6695,0.6789,0.0
+2. + SMOTE (только train),0.6487,0.6651,-3.1
+"3. + GridSearchCV (Pipeline, k=3, f1_macro)",0.6656,0.6743,-0.58

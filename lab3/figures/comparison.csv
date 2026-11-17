@@ -1,0 +1,4 @@
+﻿Модель,Accuracy,Macro-F1,Macro-Precision,Macro-Recall
+RandomForest (базовый),0.688,0.658,0.69,0.64
+LogisticRegression,0.642,0.594,0.622,0.58
+RandomForest (balanced),0.679,0.669,0.661,0.68
